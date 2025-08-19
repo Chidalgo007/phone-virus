@@ -43,7 +43,7 @@ This project demonstrates:
 
 ## 📁 Folder Structure
 
-📁 dist/
+📁 dist/</br>
 └── Mobile_Virus_Simulation.jar
 
 <hr>
